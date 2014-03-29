@@ -1,0 +1,8 @@
+The OpenCPN Horizontal Situation Indicator (HSI) will be modelled
+after an aircraft HSI.  Features to include:
+   1. Compass Rose
+   2. Sun Tracker with Visible Envelope, bug, sun elevation
+   3. MOB bug
+   4. Time Rose
+   5. Heading Bug
+   6. Next Way Point Bug
